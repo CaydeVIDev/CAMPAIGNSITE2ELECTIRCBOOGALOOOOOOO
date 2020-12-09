@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/0c/e1/45/0ce1451d2d4cbaac9a31f72b4acb25fa.jpg);
+    background-size: cover;
+}
+
+.headerpageone{
+
+    text-align: center;
+    font-family: 'IM Fell English SC', serif;
+    font-size: xx-large;
+    padding-left: 2%;
+    padding-bottom: 2%;
+
+}
+
+.card-text{
+    font-family: 'IM Fell English SC', serif;
+}
+ 
+.card-title{
+    font-family: 'IM Fell English SC', serif;
+
+}
+
+.card {
+    border-color: chocolate;
+}
+
+.img-fluid{
+    padding-left: 20 px ;
+}
